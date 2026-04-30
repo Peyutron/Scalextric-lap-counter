@@ -44,8 +44,8 @@
 // ===========
 // WIFI CONFIG
 // ===========
-const char* ssid = "MOVISTAR_D310";           // Change to your SSID
-const char* password = "puPdDU4tXafYmjcpaoGo";   // your Wifi Password
+const char* ssid = "YOUR_SSID";           // Change to your SSID
+const char* password = "YORWIFIPASS";   // your Wifi Password
 // char serverIP[16] = "192.168.1.2";
 // const int serverPort = 2560;
 
