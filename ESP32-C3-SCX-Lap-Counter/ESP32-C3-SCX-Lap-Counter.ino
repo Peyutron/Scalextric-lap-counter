@@ -7,7 +7,7 @@
     - none
   *  
   * GitHub Project repository:
-    - https://github.com/Peyutron/SH1106-DCCpp-Wifi-controller
+    - https://github.com/Peyutron/Scalextric-lap-counter
   * GitHub repository:
     - https://github.com/Peyutron
   * Web:
