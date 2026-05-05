@@ -62,7 +62,7 @@ const int RESET_BUTTON = 10;  // GPIO10 - Reset (opcional)
 // =====================
 const int I2C_SDA = 6;
 const int I2C_SCL = 7;
-LiquidCrystal_I2C lcd(0x3F, 16, 2);  // Try 0x3F if that doesn't work
+LiquidCrystal_I2C lcd(0x3F, 16, 2);  // Try 0x27 if that doesn't work
 
 // =======================
 // CONFIGURATION VARIABLES
